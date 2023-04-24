@@ -1,2 +1,9 @@
 conflict5
 asdasdsadadas
+sourcetree commit 2
+sourcetree commit 3
+conflict5
+conflict5
+conflict5
+sourcetree branch 5
+Stashing with sourcetree
