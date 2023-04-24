@@ -3,3 +3,4 @@ asdasdsadadas
 sourcetree commit 2
 sourcetree commit 3
 sourcetree branch 5
+Stashing with sourcetree
