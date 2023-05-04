@@ -7,3 +7,5 @@ conflict5
 conflict5
 sourcetree branch 5
 Stashing with sourcetree
+e
+e
